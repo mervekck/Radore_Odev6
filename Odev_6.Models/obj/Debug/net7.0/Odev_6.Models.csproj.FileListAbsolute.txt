@@ -1,0 +1,11 @@
+C:\Users\merve\Desktop\RadoreBootcamp\Odev_6\Odev_6.Models\bin\Debug\net7.0\Odev_6.Models.deps.json
+C:\Users\merve\Desktop\RadoreBootcamp\Odev_6\Odev_6.Models\bin\Debug\net7.0\Odev_6.Models.dll
+C:\Users\merve\Desktop\RadoreBootcamp\Odev_6\Odev_6.Models\bin\Debug\net7.0\Odev_6.Models.pdb
+C:\Users\merve\Desktop\RadoreBootcamp\Odev_6\Odev_6.Models\obj\Debug\net7.0\Odev_6.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\merve\Desktop\RadoreBootcamp\Odev_6\Odev_6.Models\obj\Debug\net7.0\Odev_6.Models.AssemblyInfoInputs.cache
+C:\Users\merve\Desktop\RadoreBootcamp\Odev_6\Odev_6.Models\obj\Debug\net7.0\Odev_6.Models.AssemblyInfo.cs
+C:\Users\merve\Desktop\RadoreBootcamp\Odev_6\Odev_6.Models\obj\Debug\net7.0\Odev_6.Models.csproj.CoreCompileInputs.cache
+C:\Users\merve\Desktop\RadoreBootcamp\Odev_6\Odev_6.Models\obj\Debug\net7.0\Odev_6.Models.dll
+C:\Users\merve\Desktop\RadoreBootcamp\Odev_6\Odev_6.Models\obj\Debug\net7.0\refint\Odev_6.Models.dll
+C:\Users\merve\Desktop\RadoreBootcamp\Odev_6\Odev_6.Models\obj\Debug\net7.0\Odev_6.Models.pdb
+C:\Users\merve\Desktop\RadoreBootcamp\Odev_6\Odev_6.Models\obj\Debug\net7.0\ref\Odev_6.Models.dll
